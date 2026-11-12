@@ -13,10 +13,13 @@ book:
       url: https://statcomp.org
     - name: Erik Chervonny
     - name: Mahiba Mansur
+    - name: Carter Morissette
     - name: Amanda Noe
     - name: Enrico Ong
+    - name: Jack Parkins
     - name: Nicholas Tria
     - name: Chaoyang Wang
+    - name: Leo Wang
   date: today
   chapters:
     - index.qmd
